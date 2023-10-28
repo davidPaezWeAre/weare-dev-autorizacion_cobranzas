@@ -1,3 +1,9 @@
+Variables de entorno 
+
+PORT=3015 
+REACT_APP_ROUTER_BASE=/autorizacion_cobranza 
+PUBLIC_URL=/autorizacion_cobranza
+REACT_APP_API_URL=https://cf-067.coltefinanciera.com.co:7412/utilitarios/api
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
